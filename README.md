@@ -37,9 +37,8 @@ Instead of doing basic tutorial projects, I build tools that real people and bus
 | Project | What It Is | Tech Stack |
 | :--- | :--- | :--- |
 | **<a href="https://lfestiva.com">L'festiva Manager</a>** | My own company needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up. | PHP, MySQL |
-| **<a href="#">Sam Symoon</a>** | Engineered a world-class, highly interactive portfolio site for an international photographer. | Frontend Design |
+| **<a href="#">Samsymoon.com</a>** | Engineered a world-class, highly interactive portfolio site for an international photographer. | Frontend Design |
 | **<a href="#">GetMarried.dk</a>** | Built a custom digital platform for a marriage helper agency based in Denmark. | Custom Web App |
-| **<a href="#">Snap Elegance</a>** | Designed the UI/UX and web presence for a high-end wedding cinematography team. | Frontend Design |
 | **<a href="#">Family Archive App</a>** | *Currently building:* A secure digital time capsule with a live chatbox for my family to store multi-generational memories. | PHP, JS |
 
 ---

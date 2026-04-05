@@ -12,7 +12,7 @@ I'm a big believer in **"vibe coding"**—jumping into the deep end, figuring ou
 
 <p align="left">
   <a href="https://lfestiva.com" target="_blank"><img src="https://img.shields.io/badge/Website-lfestiva.com-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:ahidurrahmanhridoy@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---

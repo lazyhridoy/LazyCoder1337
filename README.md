@@ -13,7 +13,6 @@ I'm a big believer in **"vibe coding"**—jumping into the deep end, figuring ou
 <p align="left">
   <a href="https://lfestiva.com" target="_blank"><img src="https://img.shields.io/badge/Website-lfestiva.com-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -33,26 +32,30 @@ I mainly focus on the intersection of clean visual design and functional PHP/MyS
 
 ### 🚀 What I've Been Building
 
-Instead of doing tutorial projects, I build stuff that people actually use:
+Instead of doing basic tutorial projects, I build tools that real people and businesses actually use.
 
-* **L'festiva Manager:** I run an event company, and we needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up using PHP and MySQL.
-* **Creative Portfolios (Sam Symoon & Snap Elegance):** Engineered world-class, highly interactive portfolio sites for an international photographer and a high-end wedding cinematography team.
-* **GetMarried.dk:** Built a custom digital platform for a marriage helper agency based in Denmark.
-* **Family Archive App:** A personal project I'm currently working on—a secure digital time capsule with a live chatbox for my family to store multi-generational memories.
+| Project | What It Is | Tech Stack |
+| :--- | :--- | :--- |
+| **<a href="https://lfestiva.com">L'festiva Manager</a>** | My own company needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up. | PHP, MySQL |
+| **<a href="#">Sam Symoon</a>** | Engineered a world-class, highly interactive portfolio site for an international photographer. | Frontend Design |
+| **<a href="#">GetMarried.dk</a>** | Built a custom digital platform for a marriage helper agency based in Denmark. | Custom Web App |
+| **<a href="#">Snap Elegance</a>** | Designed the UI/UX and web presence for a high-end wedding cinematography team. | Frontend Design |
+| **<a href="#">Family Archive App</a>** | *Currently building:* A secure digital time capsule with a live chatbox for my family to store multi-generational memories. | PHP, JS |
 
 ---
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazyCoder1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hridoy's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoder1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+*(Note: These stats only track Public repositories. Since my company tools are Private, these numbers might look a little quiet right now!)*
+
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyCoder1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoder1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <br>
 
 <p align="center">
-  <i>"I treat my code like my photography—it needs to work perfectly, but it also has to look good."</i><br>
+  <i>"I treat my code like my photography—it needs to work perfectly, but it also has to look incredible."</i><br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=LazyCoder1337&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>

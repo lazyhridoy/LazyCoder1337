@@ -9,7 +9,6 @@
   <br><br>
 
   <p>
-    <a href="https://lfestiva.com" target="_blank"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -40,6 +39,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
 <br>
@@ -47,13 +47,13 @@
 ### 🚀 Architected Solutions
 *Instead of doing basic tutorial projects, I build tools that real people and businesses actually use.*
 
-* 🏢 **[L'festiva Manager](https://lfestiva.com)** <br> My own company needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up. <br> `<kbd>PHP</kbd> <kbd>MySQL</kbd>`
+* 🎪 **[L'festiva.com](https://lfestiva.com)** <br> The official front-facing web presence for my event company. I designed and built it to perfectly represent our creative brand. <br> `<kbd>Frontend Architecture</kbd> <kbd>UI/UX</kbd>`
+
+* 🏢 **[L'festiva Manager](#)** <br> My own company needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up. <br> `<kbd>PHP</kbd> <kbd>MySQL</kbd>`
 
 * 🌍 **[Samsymoon.com](#)** <br> Engineered a world-class, highly interactive portfolio site for an international photographer. <br> `<kbd>Frontend Architecture</kbd>`
 
-* 💍 **[GetMarried.dk](#)** <br> Built a custom digital platform for a marriage helper agency based in Denmark. <br> `<kbd>Custom Web App</kbd>`
-
-* 🎞️ **[Snap Elegance](#)** <br> Designed the UI/UX and web presence for a high-end wedding cinematography team. <br> `<kbd>Creative Design</kbd>`
+* 💍 **[GetMarried.dk](https://www.getmarried.dk)** <br> Developed and highly customized a WordPress platform for a marriage helper agency based in Denmark. <br> `<kbd>WordPress</kbd> <kbd>Customization</kbd>`
 
 * 🔒 **Family Archive App** *(Currently Building)* <br> A secure digital time capsule with a live chatbox for my family to store multi-generational memories. <br> `<kbd>PHP</kbd> <kbd>JavaScript</kbd>`
 

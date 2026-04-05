@@ -51,7 +51,7 @@
 
 * 🏢 **[L'festiva Manager](#)** <br> My own company needed a better way to manage clients. So, I built a complete, private company portal and client dashboard from the ground up. <br> `<kbd>PHP</kbd> <kbd>MySQL</kbd>`
 
-* 🌍 **[Samsymoon.com](#)** <br> Engineered a world-class, highly interactive portfolio site for an international photographer. <br> `<kbd>Frontend Architecture</kbd>`
+* 🌍 **[Samsymoon.com](Samsymoon.com)** <br> Engineered a world-class, highly interactive portfolio site for an international photographer. <br> `<kbd>Frontend Architecture</kbd>`
 
 * 💍 **[GetMarried.dk](https://www.getmarried.dk)** <br> Developed and highly customized a WordPress platform for a marriage helper agency based in Denmark. <br> `<kbd>WordPress</kbd> <kbd>Customization</kbd>`
 
@@ -62,10 +62,10 @@
 ### 📈 Vibe Coding Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazyCoder1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Hridoy's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoder1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LazyHridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Hridoy's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyHridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
   
   <br><br>
   
-  <img src="https://profile-counter.glitch.me/LazyCoder1337/count.svg" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/LazyHridoy/count.svg" alt="Profile views" />
 </div>
